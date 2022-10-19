@@ -17,6 +17,8 @@ class Account
 				e.printStackTrace();
 			}
 			System.out.println("Current Amount: "+amount);
+			System.out.pritnln("Iam done");
+			System.out.println("FIRST PROJECT EDITED");
 		}
 	}
 	public void deposit(int amount)
